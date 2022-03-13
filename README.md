@@ -15,7 +15,7 @@ Se muestra el resultado de la búsqueda y en el sidebar se va mostrando el histo
 ![](https://raw.githubusercontent.com/sgcm14/gifs-app/master/doc/GifsApp3.png)
 > Pantalla de **Búsqueda**
 
-Si se recarga la página se queda guardado la última búsqueda tanto en el sidebar con en la pantalla de búsqueda
+Si se recarga la página se queda guardado la última búsqueda tanto en el sidebar como en la pantalla de búsqueda
 ![](https://raw.githubusercontent.com/sgcm14/gifs-app/master/doc/GifsApp4.png)
 > Pantalla de **Búsqueda**
 
